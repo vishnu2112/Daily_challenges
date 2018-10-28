@@ -27,7 +27,7 @@ import java.lang.*;
 import java.io.*;
 
 public class main {
-	
+	//No need to import lang, io and util * only scanner is enough for this.
 	public static void main (String args[]) {
 		Scanner scanner = new Scanner(System.in);
 		int x = scanner.nextInt();
